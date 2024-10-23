@@ -12,8 +12,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[username]/dashboard-project.git
-cd dashboard-project
+git clone [https://github.com/[username]/dashboard-project.git](https://github.com/karmasta13/Repo_Structures.git)
+cd Repo_Structures
 ```
 
 2. Create and activate virtual environment:
